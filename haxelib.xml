@@ -1,0 +1,6 @@
+<project name="hxfunc" url="http://github.com/renaudbardet/hxfunc" license="Public">
+    <user name="renaudbardet"/>
+    <tag v="functional"/>
+    <description>This project provides basic functional style programing tools.</description>
+    <version name="1.0">Initial revision</version>
+</project>
