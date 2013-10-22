@@ -1,4 +1,4 @@
 hxfunc
 ======
 
-a simple set of functional style programming for haxe
+a simple set of functional style programming tools for haxe
